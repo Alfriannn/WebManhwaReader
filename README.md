@@ -19,11 +19,8 @@ Aplikasi web untuk membaca manhwa (komik Korea) berbasis Laravel, lengkap dengan
 ### Landing Page
 ![Landing Page](public/images/Screenshot%20(422).png)
 
-### Daftar Manhwa
-![Daftar Manhwa](public/images/Screenshot%20(423).png)
-
 ### Detail Manhwa
-![Detail Manhwa](public/images/Screenshot%20(424).png)
+![Detail Manhwa](public/images/Screenshot%20(423).png)
 
 ### Admin Dashboard
 ![Admin Dashboard](public/images/Screenshot%20(425).png)
