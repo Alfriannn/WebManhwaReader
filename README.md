@@ -50,8 +50,8 @@ Aplikasi web untuk membaca manhwa (komik Korea) berbasis Laravel, lengkap dengan
 
 ### 1. **Clone Project**
 ```sh
-git clone https://github.com/username/ManhwaReader.git
-cd ManhwaReader
+git clone https://github.com/Alfriannn/WebManhwaReader.git
+cd WebManhwaReader
 ```
 
 ### 2. **Install Dependency**
