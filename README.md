@@ -17,19 +17,16 @@ Aplikasi web untuk membaca manhwa (komik Korea) berbasis Laravel, lengkap dengan
 ## 📸 Preview
 
 ### Landing Page
-![Landing Page](public/images/Screenshot%20(422).png)
+![Landing Page](public/images/Daftarmanhwa.png)
 
 ### Detail Manhwa
-![Detail Manhwa](public/images/Screenshot%20(423).png)
+![Detail Manhwa](public/images/Detailmanhwa.png)
 
 ### Admin Dashboard
-![Admin Dashboard](public/images/Screenshot%20(425).png)
-
-### Form Tambah Manhwa
-![Form Tambah Manhwa](public/images/Screenshot%20(426).png)
+![Admin Dashboard](public/images/Admin.png)
 
 ### Baca Chapter (PDF/Gambar)
-![Baca Chapter](public/images/Screenshot%20(424).png)
+![Baca Chapter](public/images/Bacamanhwa.png)
 <!-- Tambahkan screenshot lain sesuai kebutuhan -->
 
 ---
