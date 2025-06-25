@@ -29,7 +29,7 @@ Aplikasi web untuk membaca manhwa (komik Korea) berbasis Laravel, lengkap dengan
 ![Form Tambah Manhwa](public/images/Screenshot%20(426).png)
 
 ### Baca Chapter (PDF/Gambar)
-![Baca Chapter](public/images/Screenshot%20(427).png)
+![Baca Chapter](public/images/Screenshot%20(424).png)
 <!-- Tambahkan screenshot lain sesuai kebutuhan -->
 
 ---
