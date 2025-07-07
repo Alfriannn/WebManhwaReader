@@ -14,23 +14,6 @@ Aplikasi web untuk membaca manhwa (komik Korea) berbasis Laravel, lengkap dengan
 
 ---
 
-## 📸 Preview
-
-### Landing Page
-![Landing Page](public/images/Daftarmanhwa.png)
-
-### Detail Manhwa
-![Detail Manhwa](public/images/Detailmanhwa.png)
-
-### Admin Dashboard
-![Admin Dashboard](public/images/Admin.png)
-
-### Baca Chapter (PDF/Gambar)
-![Baca Chapter](public/images/Bacamanhwa.png)
-<!-- Tambahkan screenshot lain sesuai kebutuhan -->
-
----
-
 ## ✨ Fitur Utama
 
 - **Landing page** daftar manhwa (hanya untuk user login)
@@ -163,7 +146,6 @@ Akses di browser: [http://localhost:8000](http://localhost:8000)
 - `app/Http/Controllers/Admin/` : Controller admin panel
 - `app/Http/Controllers/` : Controller user
 - `resources/views/` : Blade view (user & admin)
-- `public/images/` : Screenshot hasil web
 - `storage/app/public/` : File upload (cover, pdf, page)
 
 ---
@@ -180,4 +162,3 @@ MIT License
 
 ---
 
-**Selamat menggunakan ManhwaReader!**
